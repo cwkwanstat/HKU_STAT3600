@@ -1,0 +1,36 @@
+Make,Price,Country,Reliability,Type,int,C1,T1,T2,T3,T4,C1T1,C1T2,C1T3,C1T4
+Acura Legend,24760,Japan,5,Medium,1,1,0,1,0,0,0,1,0,0
+Buick Century,13150,USA,3,Medium,1,0,0,1,0,0,0,0,0,0
+Chevrolet Beretta,10320,USA,1,Compact,1,0,1,0,0,0,0,0,0,0
+Chrysler Le Baron,10945,USA,4,Compact,1,0,1,0,0,0,0,0,0,0
+Chrysler Le Baron Coupe,12495,USA,2,Medium,1,0,0,1,0,0,0,0,0,0
+Dodge Daytona,9745,USA,1,Sporty,1,0,0,0,0,1,0,0,0,0
+Dodge Grand Caravan,15395,USA,3,Van,1,0,0,0,0,0,0,0,0,0
+Eagle Premier,15350,USA,2,Medium,1,0,0,1,0,0,0,0,0,0
+Eagle Summit,8895,USA,4,Small,1,0,0,0,1,0,0,0,0,0
+Ford Aerostar,12267,USA,3,Van,1,0,0,0,0,0,0,0,0,0
+Ford Escort,7402,USA,2,Small,1,0,0,0,1,0,0,0,0,0
+Ford Probe,11470,USA,3,Sporty,1,0,0,0,0,1,0,0,0,0
+Ford Tempo,9483,USA,2,Compact,1,0,1,0,0,0,0,0,0,0
+Ford Thunderbird,14980,USA,1,Medium,1,0,0,1,0,0,0,0,0,0
+Honda Accord,12145,Japan,5,Compact,1,1,1,0,0,0,1,0,0,0
+Honda Civic,6635,Japan,5,Small,1,1,0,0,1,0,0,0,1,0
+Honda Civic CRX,9410,Japan,5,Sporty,1,1,0,0,0,1,0,0,0,1
+Honda Prelude,13945,Japan,5,Sporty,1,1,0,0,0,1,0,0,0,1
+Mazda 626,12459,Japan,4,Compact,1,1,1,0,0,0,1,0,0,0
+Mazda 929,23300,Japan,5,Medium,1,1,0,1,0,0,0,1,0,0
+Mazda MPV,14944,Japan,5,Van,1,1,0,0,0,0,0,0,0,0
+Mazda Protege,6599,Japan,5,Small,1,1,0,0,1,0,0,0,1,0
+Mitsubishi Galant,10989,Japan,5,Compact,1,1,1,0,0,0,1,0,0,0
+Mitsubishi Sigma,17879,Japan,4,Compact,1,1,1,0,0,0,1,0,0,0
+Nissan 240SX,13249,Japan,3,Sporty,1,1,0,0,0,1,0,0,0,1
+Nissan Maxima,17899,Japan,5,Medium,1,1,0,1,0,0,0,1,0,0
+Nissan Sentra,7399,Japan,5,Small,1,1,0,0,1,0,0,0,1,0
+Nissan Stanza,11650,Japan,5,Compact,1,1,1,0,0,0,1,0,0,0
+Pontiac Grand Am,10565,USA,2,Compact,1,0,1,0,0,0,0,0,0,0
+Subaru Legacy,11499,Japan,5,Compact,1,1,1,0,0,0,1,0,0,0
+Subaru Loyale,9599,Japan,5,Small,1,1,0,0,1,0,0,0,1,0
+Toyota Camry,11588,Japan,5,Compact,1,1,1,0,0,0,1,0,0,0
+Toyota Corolla,8748,Japan,5,Small,1,1,0,0,1,0,0,0,1,0
+Toyota Cressida,21498,Japan,3,Medium,1,1,0,1,0,0,0,1,0,0
+Toyota Tercel,6488,Japan,5,Small,1,1,0,0,1,0,0,0,1,0
